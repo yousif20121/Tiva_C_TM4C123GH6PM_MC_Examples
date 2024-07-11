@@ -1,0 +1,6 @@
+"./tm4c123gh6pm_startup_ccs.obj"
+"./EX_1/main.obj"
+"./EX_2/main.obj"
+"./EX_3/main.obj"
+"../tm4c123gh6pm.cmd"
+-llibc.a
