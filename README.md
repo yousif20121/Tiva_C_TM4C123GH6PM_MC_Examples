@@ -20,7 +20,7 @@ To get started, clone the repository and open the individual CCS projects in Cod
 
 ## Additional Resources
 
-- **Datasheet**: Refer to the [TM4C123GH6PM datasheet]([link-to-datasheet](https://www.ti.com/lit/ds/symlink/tm4c123gh6pm.pdf)) for detailed information on peripheral registers and configurations.
+- **Datasheet**: Refer to the [TM4C123GH6PM datasheet](https://www.ti.com/lit/ds/symlink/tm4c123gh6pm.pdf) for detailed information on peripheral registers and configurations.
 - **Code Composer Studio**: Download the latest version of [Code Composer Studio](https://www.ti.com/tool/CCSTUDIO) for your development environment.
 
 ## Contributing
